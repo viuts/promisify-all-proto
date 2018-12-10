@@ -10,8 +10,7 @@
     "build": "rollup -c"
   },
   "files": [
-    "dist",
-    "logo.jpg"
+    "dist"
   ],
   "repository": {
     "type": "git",
