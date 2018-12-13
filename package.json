@@ -14,14 +14,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/janryWang/promisify-all.git"
+    "url": "git+https://github.com/viuts/promisify-all-proto.git"
   },
   "author": "Allen Ng",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/janryWang/promisify-all/issues"
+    "url": "https://github.com/viuts/promisify-all-proto/issues"
   },
-  "homepage": "https://github.com/janryWang/promisify-all#readme",
+  "homepage": "https://github.com/viuts/promisify-all-proto#readme",
   "dependencies": {},
   "devDependencies": {
     "@babel/core": "7.0.0-beta.42",
